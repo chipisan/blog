@@ -1,0 +1,28 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#3498db'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  #github: swanson
+  #bitbucket: philipj
+  #hacker_news: swanson
+  #stackexchange: 348619
+  #stackoverflow: 348619
+  twitter: chipisan
+  #facebook: zuck
+  #tumblr: animalygifs
+  linkedin: http://fr.linkedin.com/pub/morgane-chioetto/82/1a6/623
+  #gplus: 110552447039675960964
+
+# "Hi, I'm _______"
+name: "Morgane Chioetto"
+email: morgane.chioetto@gmail.com
+tagline: "I'm not arguing, I'm explaining why I'm right."
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-xxxx-x
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: true

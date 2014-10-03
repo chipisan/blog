@@ -12,11 +12,6 @@ description: ''
 url: 'http://management.chioetto.fr/'
 baseurl: '/'
 
-author:
-  name: 'Morgane Chioetto'
-  linkedin: 'morgane-chioetto/82/1a6/623'
-  email_md5: '4f3f5003188ae984047ce4ba500c131f'
-
 paginate: 5
 paginate_path: 'page:num'
 
