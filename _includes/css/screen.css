@@ -44,7 +44,8 @@ h3 {
 
 ul {
   margin: 1em 0;
-  list-style: disc;
+  list-style: none;
+  text-align: center;
 }
 
 a {
@@ -257,4 +258,13 @@ i.fa-hn {
 sup {
   vertical-align: super;
   font-size: smaller;
+}
+
+/* Ajout personnalisés */
+.img-circle {
+  height: 160px;
+  width: 160px; 
+  border-radius: 100%;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
 }
