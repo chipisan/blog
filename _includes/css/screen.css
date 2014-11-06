@@ -268,3 +268,7 @@ sup {
   -moz-border-radius: 100%;
   -webkit-border-radius: 100%;
 }
+
+ul#blog-posts {
+  text-align: left;
+}
