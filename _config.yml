@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title: 'Management en territoire hostile'
-description: 'Blog personnel de réflexions sur le management et les idées reçues sur les bonnes méthodes pour manager une équipe.'
+description: "Blog personnel de réflexions sur le management et les idées reçues sur les bonnes méthodes pour manager une équipe."
 url: 'http://management.chioetto.fr/'
 baseurl: '/'
 
