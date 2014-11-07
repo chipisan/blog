@@ -15,10 +15,10 @@ nav h1, nav h2 {
   padding-top: 15px;
 }
 
-// Avatar 
+// Avatar
 .img-circle {
   height: 160px;
-  width: 160px; 
+  width: 160px;
   @include border-radius(100%);
   @include opacity(1);
   @include transition-property(opacity);
