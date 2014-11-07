@@ -2,9 +2,58 @@
 // =========
 // Affichage d'un article unique
 
+// Style contenu
+#post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+  margin-bottom: 20px !important;
+}
+
+#post ul,
+#post ol {
+  margin-left: 1.35em;
+}
+
+#post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  font-size: 85%;
+  padding: 0 .2em;
+}
+
+#post pre code {
+  border: none;
+}
+
 // Icône retour sur la home - Page article
 .home {
   font-size: 24px;
   float: right;
   color: #AAA;
 }
+
+.home:hover {
+  text-decoration: none;
+}
+
+// Articles relatifs 
+ul.posts {
+  margin-top: 0;
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+ul.posts li {
+  line-height: 22px;
+  font-size: 16px;
+  margin-bottom: 0px;
+}
+
+ul.posts span {
+  font-family: 'Lucida Console', 'Andale Mono', monospace;
+  color: #aaa;
+  padding-right: 5px;
+  font-size:14px;
+}
+

@@ -1,4 +1,5 @@
-// Import des éléments ici
+// Feuille de style principale
+// ================================
 
 // Imports : base et utilitaires
 @import "layout/base";
@@ -22,88 +23,11 @@
 // Media Queries
 // @import "queries/*";
 
-ul.posts {
-  margin-top: 0;
-  list-style-type: none;
-  margin-bottom: 10px;
-}
-
-ul.posts li {
-  line-height: 22px;
-  font-size: 16px;
-  margin-bottom: 0px;
-}
-
-ul.posts span {
-  font-family: 'Lucida Console', 'Andale Mono', monospace;
-  color: #aaa;
-  padding-right: 5px;
-  font-size:14px;
-}
-
+// Styles originaux de du screen.css
+// À ranger 
 .meta {
   color: #aaa;
   margin: 0 0 10px 0;
-}
-
-.site .footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  overflow: hidden;
-}
-
-nav h1, nav h2 {
-  text-align: center;
-}
-
-#bio {
-  margin-top: 10px;
-  margin-bottom: 15px;
-  border: dotted #ddd;
-  border-width: 1px 0;
-  padding-top: 15px;
-}
-
-#social {
-  margin-bottom: 10px;
-  font-size: 13px;
-}
-
-#post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
-  margin-bottom: 20px !important;
-}
-
-#post ul,
-#post ol {
-  margin-left: 1.35em;
-}
-
-#post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  font-size: 85%;
-  padding: 0 .2em;
-}
-
-#post pre code {
-  border: none;
-}
-
-.sidebar {
-  padding-top: 25px;
-  font-family: "open sans", sans-serif;
-}
-
-.sidebar p {
-  font-weight: 200;
-}
-
-.sidebar a {
-  font-weight: 600;
 }
 
 .content {
@@ -112,17 +36,6 @@ nav h1, nav h2 {
   padding-left: 40px;
   padding-top: 25px;
   min-height: 400px;
-}
-
-.footer {
-  width: 100%;
-}
-
-.footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #EEE;
-  overflow: hidden;
 }
 
 .aside {
@@ -136,47 +49,6 @@ nav h1, nav h2 {
 
 #logo {
   margin-bottom: 25px;
-}
-
-#stalker {
-  display: inline-block;
-  height: 18px;
-  margin-left: 5px;
-}
-
-#stalker a {
-  width: 29px;
-  overflow: hidden;
-  float: left;
-}
-
-#stalker i {
-  font-size: 28px;
-  margin-right: 5px;
-}
-
-#stalker a:hover {
-  text-decoration: none;
-  color: $main-color;
-}
-
-i.fa-hn {
-  font-family: "open sans", sans-serif;
-  text-align: center;
-  font-size: 18px !important;
-  position: relative;
-  color: white;
-}
-
-
-.home:hover {
-  text-decoration: none;
-}
-
-.disclaimer p {
-  margin-top: 5px;
-  font-size: 11px;
-  text-align: center;
 }
 
 .footnotes {
@@ -197,22 +69,4 @@ i.fa-hn {
   text-align: center;
   font-size: smaller;
   padding-bottom: 10px
-}
-
-sup {
-  vertical-align: super;
-  font-size: smaller;
-}
-
-/* Ajout personnalisés */
-.img-circle {
-  height: 160px;
-  width: 160px; 
-  border-radius: 100%;
-  -moz-border-radius: 100%;
-  -webkit-border-radius: 100%;
-}
-
-ul#blog-posts {
-  text-align: left;
 }

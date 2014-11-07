@@ -8,9 +8,15 @@ sass_dir = "_includes/sass"
 images_dir = "assets/img"
 javascripts_dir = "assets/js"
 relative_assets = true
-output_style = :expanded
+
+# Compilation pour la prod :
 environment    = :production
+output_style = :compressed
+
+# Compilation durant le dev :
 # environment    = :development
+#output_style = :expanded
+
 
 
 

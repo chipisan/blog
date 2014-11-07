@@ -1,3 +1,72 @@
 // SIDEBAR
 // =========
 // Éléments spécifiques de la sidebar
+
+
+nav h1, nav h2 {
+  text-align: center;
+}
+
+#bio {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border: dotted #ddd;
+  border-width: 1px 0;
+  padding-top: 15px;
+}
+
+// Avatar 
+.img-circle {
+  height: 160px;
+  width: 160px; 
+  @include border-radius(100%);
+}
+
+#social {
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.sidebar {
+  padding-top: 25px;
+  font-family: "open sans", sans-serif;
+}
+
+.sidebar p {
+  font-weight: 200;
+}
+
+.sidebar a {
+  font-weight: 600;
+}
+
+// Réseaux sociaux, zone stalking
+#stalker {
+  display: inline-block;
+  height: 18px;
+  margin-left: 5px;
+}
+
+#stalker a {
+  width: 29px;
+  overflow: hidden;
+  float: left;
+}
+
+#stalker i {
+  font-size: 28px;
+  margin-right: 5px;
+}
+
+#stalker a:hover {
+  text-decoration: none;
+  color: $main-color;
+}
+
+i.fa-hn {
+  font-family: "open sans", sans-serif;
+  text-align: center;
+  font-size: 18px !important;
+  position: relative;
+  color: white;
+}

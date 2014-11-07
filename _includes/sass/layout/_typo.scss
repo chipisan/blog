@@ -47,3 +47,8 @@ a:hover {
 a:visited {
   color: $main-color;
 }
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
