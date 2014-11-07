@@ -3,18 +3,16 @@ markdown: redcarpet
 highlighter: pygments
 
 # Permalinks
-permalink: pretty
+permalink: none
 relative_permalinks: true
+lsi: true
 
-# Setup
-title: 'Management en territoire hostile'
-description: "Blog personnel de réflexions sur le management et les idées reçues sur les bonnes méthodes pour manager une équipe."
-url: 'http://management.chioetto.fr/'
-baseurl: '/'
+baseurl: "/"
+
+timezone: "Europe/Paris"
 
 paginate: 5
 paginate_path: 'page:num'
 
-rss_path: feed.xml
 categories_path: categories
 tags_path: tags

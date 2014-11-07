@@ -5,16 +5,16 @@ highlight_color: '#ac0000'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  #github: swanson
-  #bitbucket: philipj
-  #hacker_news: swanson
-  #stackexchange: 348619
-  #stackoverflow: 348619
+  #github:
+  #bitbucket:
+  #hacker_news:
+  #stackexchange:
+  #stackoverflow:
   twitter: ChiPiSan
-  #facebook: zuck
-  #tumblr: animalygifs
+  #facebook:
+  #tumblr:
   linkedin: http://fr.linkedin.com/pub/morgane-chioetto/82/1a6/623
-  #gplus: 110552447039675960964
+  #gplus:
 
 # "Hi, I'm _______"
 name: "Morgane Chioetto"
