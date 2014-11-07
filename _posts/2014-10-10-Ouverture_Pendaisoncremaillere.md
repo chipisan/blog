@@ -3,6 +3,7 @@ layout: post
 title: 'Pendaison de crémaillère : Management en territoire hostile'
 category: 'a-propos'
 tags: 'A propos'
+description: 'Note d'ouverture du blog. Au programme : réflexions sur le management, sur les pratiques des managers et l'organisation du travail.'
 permalink: /a-propos/pendaison-cremaillere/
 ---
 
