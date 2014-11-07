@@ -1,85 +1,26 @@
-@charset "UTF-8";
-* {
-  margin: 0;
-  padding: 0;
-}
+// Import des éléments ici
 
-html, body {
-  height: 100%;
-}
+// Imports : base et utilitaires
+@import "layout/base";
+@import "layout/variables";
 
-body {
-  font-size: 16px;
-  background-color: white;
-  color: #222222;
-  line-height: 24px;
-  margin: 0;
-  border-top: 7px solid #ac0000;
-}
+// Ressources
+// @import "vendors/*";
 
-table {
-  font-size: inherit;
-  font: 100%;
-}
+// Utilitaires (snippets, mixins)
+@import "utilities/*";
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+// Base du design (header, footer, dimensions du layout)
+@import "layout/*";
 
-h1, h2, h3, h4, h5, h6 {
-  color: #181818;
-  font-family: "open sans", sans-serif;
-  font-weight: 600;
-}
+// Éléments de l'interface utilisateur
+@import "ui/*";
 
-h1.title {
-  font-weight: 800;
-}
+// Styles spécifiques aux pages 
+@import "pages/*";
 
-h1 {
-  font-size: 32px;
-  line-height: 40px;
-}
-
-h2 {
-  font-size: 24px;
-  line-height: 30px;
-}
-
-h3 {
-  font-size: 21px;
-  line-height: 24px;
-  margin: 1em 0;
-}
-
-ul {
-  margin: 1em 0;
-  list-style: none;
-  text-align: center;
-}
-
-a {
-  color: #ac0000;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #ac0000;
-  text-decoration: underline;
-}
-
-a:visited {
-  color: #ac0000;
-}
-
-/* No files to import found in ui/* */
-.home {
-  font-size: 24px;
-  float: right;
-  color: #AAA;
-}
+// Media Queries
+// @import "queries/*";
 
 ul.posts {
   margin-top: 0;
@@ -97,7 +38,7 @@ ul.posts span {
   font-family: 'Lucida Console', 'Andale Mono', monospace;
   color: #aaa;
   padding-right: 5px;
-  font-size: 14px;
+  font-size:14px;
 }
 
 .meta {
@@ -190,7 +131,7 @@ nav h1, nav h2 {
 }
 
 #home h2 {
-  color: #ac0000;
+  color: $main-color;
 }
 
 #logo {
@@ -216,7 +157,7 @@ nav h1, nav h2 {
 
 #stalker a:hover {
   text-decoration: none;
-  color: #ac0000;
+  color: $main-color;
 }
 
 i.fa-hn {
@@ -226,6 +167,7 @@ i.fa-hn {
   position: relative;
   color: white;
 }
+
 
 .home:hover {
   text-decoration: none;
@@ -254,7 +196,7 @@ i.fa-hn {
   margin: 0 auto;
   text-align: center;
   font-size: smaller;
-  padding-bottom: 10px;
+  padding-bottom: 10px
 }
 
 sup {
@@ -265,7 +207,7 @@ sup {
 /* Ajout personnalisés */
 .img-circle {
   height: 160px;
-  width: 160px;
+  width: 160px; 
   border-radius: 100%;
   -moz-border-radius: 100%;
   -webkit-border-radius: 100%;

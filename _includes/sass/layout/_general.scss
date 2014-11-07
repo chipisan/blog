@@ -1,0 +1,32 @@
+// GENERAL
+// =========
+// Styles généraux, balises globales…
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-size: 16px;
+  background-color: white;
+  color: #222222;
+  line-height: 24px;
+  margin: 0;
+  border-top: 7px solid $main-color;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
