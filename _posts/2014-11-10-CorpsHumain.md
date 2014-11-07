@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Qui est le plus important ?'
-category: 'organisation'
-tags: 'Organisation'
+category: 'organisations'
+tags: 'Organisations'
+permalink: /organisations/qui-est-le-plus-important/
 published: false
 ---
 > Qu'est-ce que vous préférez ? Sacrifier votre cerveau ou vos poumons ?
