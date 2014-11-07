@@ -7,10 +7,10 @@ permalink: /pratiques-de-management/implicatif-participatif-depreciatif-limitati
 ---
 > Farandole d'adjectifs
 
-Mon approche du management c'est plutôt le mode participatif et implicatif. Quitte à m'y fatiguer ou désespérer parfois, j'explique le pourquoi et le comment, je sollicite avis et suggestions. Ça a toujours été mon approche naturelle. Et à force d'étonnements et d'incompréhension autour de moi j'ai fini par :
-1. Désespérer de la façon de considérer leur job de certains managers
-2. Essayer de leur montrer qu'il y a d'autres façons de faire les choses
-3. Et donc par objectiver et exprimer pourquoi je fonctionne comme ça et je suis convaincue par mon approche
+Mon approche du management c'est plutôt le mode participatif et implicatif. Quitte à m'y fatiguer ou désespérer parfois, j'explique le pourquoi et le comment, je sollicite avis et suggestions. Ça a toujours été mon approche naturelle. Et à force d'étonnements et d'incompréhension autour de moi j'ai fini par :   
+1. Désespérer de la façon de considérer leur job de certains managers   
+2. Essayer de leur montrer qu'il y a d'autres façons de faire les choses   
+3. Et donc par objectiver et exprimer pourquoi je fonctionne comme ça et je suis convaincue par mon approche   
 
 ## Pourquoi implicatif ?
 Management implicatif parce que je m'efforce systématiquement d'expliquer et de faire adhérer. Quand je délègue une responsabilité ou que je demande quoi que ce soit je donne le contexte (dans quel projet on se situe, quels sont les clients internes et/ou externes), les objectifs (du projet ou de l'action, de la mission elle-même, du ou des livrables demandés) et les développements attendus (comment vont être utilisés les livrables, comment va évoluer le projet, comment cela s'intègre dans la stratégie générale du service / de l'activité / de l'entreprise).
