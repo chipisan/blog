@@ -6,15 +6,11 @@ highlighter: pygments
 
 # Permalinks
 permalink: /:categories/:title
-relative_permalinks: true
 lsi: true
 
 baseurl: "/"
 
 timezone: "Europe/Paris"
 
-paginate: 5
+paginate: 2
 paginate_path: 'page:num'
-
-categories_path: categories
-tags_path: tags
