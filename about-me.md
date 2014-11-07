@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Présentations
+permalink: /about-me/
 ---
 ## Moi
 > Qui me parle ?
