@@ -26,12 +26,12 @@ Donc de la même façon que je donne des éléments de contexte je donne des ori
 ~~Les laisser se planter~~ Ne pas être assez précise et faire perdre du temps à tout le monde : Je ne veux pas non plus, sous des prétextes oiseux d'aider les gens à progresser "à la dure", juste lancer une consigne en l'air et voir ce que les gens vont en faire.
 Je considère que j'ai mieux à faire que d'admirer l'in.capacité de mes équipes à la pratique divinatoire. Je ne prends aucun plaisir à les mettre en difficulté, et je n'y vois aucun intérêt pédagogique non plus.
 
-L'idée, pour moi en tant que manager, est d'accompagner sans se substituer pour atteindre plusieurs objectifs :
-* Rassurer et donc lever de multiples freins potentiels
-* Valoriser et donc inciter à donner le meilleur de soi-même
-* Impliquer et donc avoir une réalisation la plus aboutie et propre à être utilisée le plus largement possible
-* Autonomiser et donc progressivement tendre vers le minimum d'implication opérationnelle de ma part
-* Faire progresser et donc rendre le plus intéressant et riche possible le poste des membres de mon équipe, tout en pouvant mener plus de projets et d'actions à l'intérieur de mon département
+L'idée, pour moi en tant que manager, est d'accompagner sans se substituer pour atteindre plusieurs objectifs :   
+* Rassurer et donc lever de multiples freins potentiels   
+* Valoriser et donc inciter à donner le meilleur de soi-même   
+* Impliquer et donc avoir une réalisation la plus aboutie et propre à être utilisée le plus largement possible   
+* Autonomiser et donc progressivement tendre vers le minimum d'implication opérationnelle de ma part   
+* Faire progresser et donc rendre le plus intéressant et riche possible le poste des membres de mon équipe, tout en pouvant mener plus de projets et d'actions à l'intérieur de mon département   
 
 ## La stratégie de l'humiliation
 Sauf que tout ça c'est bel et bien bon mais ça ne semble pas vraiment être l'approche numéro un de la plupart des managers que j'ai pu rencontrer. Et surtout quand on parle de délégation à des équipes de production ou aux missions très opérationnelles.
