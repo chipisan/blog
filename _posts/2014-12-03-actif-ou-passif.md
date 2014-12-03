@@ -25,7 +25,7 @@ Et parfois j'ai managé des gens qui sont carrément du côté "je ne fais que s
 ## ... et on doit tous s'adapter
 Si en tant que manager je dois accompagner mes équipes pour les faire progresser, je dois aussi connaître les forces et faiblesses de chacun pour gérer l'activité au mieux.  
 
-Et donc je dois m'adapter aux capacités de chacun en la matière. J'ai par exemple beaucoup travaillé pour expliquer à certains que j'attendais d'eux qu'ils trouvent des réponses, pas qu'ils se contentent de poser des questions. Une fois ce point acquis, nous avons trouvé des solutions pour les accompagner sur l'acquisition de nouveaux réflexes :
+Et donc je dois m'adapter aux capacités de chacun en la matière. J'ai par exemple beaucoup travaillé pour expliquer à certains que j'attendais d'eux qu'ils trouvent des réponses, pas qu'ils se contentent de poser des questions. Une fois ce point acquis, nous avons trouvé des solutions pour les accompagner sur l'acquisition de nouveaux réflexes :   
 * Systématiquement mettre un délai avec une demande (un délai raisonnable compte tenu de l'urgence et de la charge bien sur)   
 * Relancer, une fois le délai dépassé, si on n'a pas de réponse   
 * Si le délai donné était long, faire au moins une relance intermédiaire pour reconfirmer le sujet     
@@ -35,7 +35,7 @@ D'un autre côté je me suis également adaptée à la diversité des profils de
 
 ## Tout ça pour ça ? 
 Il n'y a là que des choses très classiques. Mais ça a été une de mes premières prises de conscience de manager, il y a quelques années. Et aussi trivial que soit le sujet ça a été un vrai déclic pour moi.  
-J'ai pleinement pris conscience à ce moment-là de plusieurs réalités du rôle de manager qui orientent aujourd'hui la façon dont je pratique mon métier. Pêle mêle et de façon non exhaustive on y trouve les "révélations" suivantes:   
+J'ai pleinement pris conscience à ce moment-là de plusieurs réalités du rôle de manager qui orientent aujourd'hui la façon dont je pratique mon métier. Pêle mêle et de façon non exhaustive on y trouve les "révélations" suivantes:  
 * Je dois avoir conscience de ce que j'attends de mes équipes   
 * Je dois distinguer les attentes transversales qui s'appliquent à tous des attentes spécifiques à certains profils ou personnes   
 * Je ne dois jamais oublier que nous fonctionnons tous différemment, et donc que je dois m'efforcer de comprendre le fonctionnement des gens avec qui je collabore   
