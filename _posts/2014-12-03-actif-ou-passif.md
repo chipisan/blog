@@ -4,6 +4,7 @@ category: 'vie-de-manager'
 tag: 'Vie de manager'
 permalink: /vie-de-manager/actif-ou-passif
 ---
+
 > 100% SFW
 
 ## Mon fonctionnement ... 
