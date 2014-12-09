@@ -20,6 +20,6 @@ Je crée ce blog parce que j'en ai assez d'entendre asséner des lieux ~~crétin
 Et surtout je me suis tellement usée la voix à répondre, expliquer, argumenter face à ces personnes que je veux partager les petits bouts de réflexion et arguments que ça m'a fait développer.
 Je ne suis pas la seule, loin s'en faut, à vivre ces situations. Heureusement je lis beaucoup de gens qui pensent comme moi plutôt que comme certaines personnes que j'ai rencontré dans ma vie professionnelle, ce qui me donne du courage. Alors si je peux contribuer à diffuser un peu plus largement l'idée que non, ce n'est pas "comme ça" partout, que non ces situations pourries ne sont pas immuables, ce sera volontiers.
 
-C'est donc ce que vous trouverez ici régulièrement. Mes pensées sur le management. Mes incompréhensions sur certaines façons d'organiser les entreprises. Et tout un tas de réflexsions et avis personnels divers et variés.
+C'est donc ce que vous trouverez ici régulièrement. Mes pensées sur le management. Mes incompréhensions sur certaines façons d'organiser les entreprises. Et tout un tas de réflexions et avis personnels divers et variés.
 
 Bienvenue :)
