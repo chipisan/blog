@@ -15,7 +15,7 @@ Mon approche du management c'est plutôt le mode participatif et implicatif. Qui
 ## Pourquoi implicatif ?
 Management implicatif parce que je m'efforce systématiquement d'expliquer et de faire adhérer. Quand je délègue une responsabilité ou que je demande quoi que ce soit je donne le contexte (dans quel projet on se situe, quels sont les clients internes et/ou externes), les objectifs (du projet ou de l'action, de la mission elle-même, du ou des livrables demandés) et les développements attendus (comment vont être utilisés les livrables, comment va évoluer le projet, comment cela s'intègre dans la stratégie générale du service / de l'activité / de l'entreprise).
 
-Bref je fais ce que je peux pour que les personnes à qui je demande un travail ne soient pas cantonnés à un rôle de simple exécutant (quand il s'agit d'une activité de production) ou ne tombent pas dans la tendance facile à se mettre des oeillères et ne voir que leur propre petit pré carré dans le projet (pour les cadres et les activités transversales ou verticales).
+Bref je fais ce que je peux pour que les personnes à qui je demande un travail ne soient pas cantonnées à un rôle de simple exécutant (quand il s'agit d'une activité de production) ou ne tombent pas dans la tendance facile à se mettre des oeillères et ne voir que leur propre petit pré carré dans le projet (pour les cadres et les activités transversales ou verticales).
 
 ## Pourquoi participatif ?
 Management participatif parce que je veux éviter les deux extrêmes de la délégation.
