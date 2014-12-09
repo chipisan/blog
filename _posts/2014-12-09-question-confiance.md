@@ -1,4 +1,5 @@
 --- 
+layout: post
 title: 'Question de confiance'
 category: 'organisations'
 tag: 'Organisations'
