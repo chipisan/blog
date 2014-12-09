@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posta
 category: vie-de-manager
 tag: Vie de manager
 permalink: /vie-de-manager/actif-ou-passif
@@ -39,6 +39,6 @@ J'ai pleinement pris conscience à ce moment-là de plusieurs réalités du rôl
 * Je dois avoir conscience de ce que j'attends de mes équipes   
 * Je dois distinguer les attentes transversales qui s'appliquent à tous des attentes spécifiques à certains profils ou personnes   
 * Je ne dois jamais oublier que nous fonctionnons tous différemment, et donc que je dois m'efforcer de comprendre le fonctionnement des gens avec qui je collabore   
-* Je ne dois pas rien prendre pour acquis, et ce que j'estime être moi du "bon sens" sera une totale inconnue pour mon voisin. Tout mérite d'être explicité si on veut avoir une chance d'être compris  
+* Je ne dois rien prendre pour acquis, et ce que j'estime être moi du "bon sens" sera une totale inconnue pour mon voisin. Tout mérite d'être explicité si on veut avoir une chance d'être compris  
 
 > Cela va sans dire, mais ça va mieux en le disant   
