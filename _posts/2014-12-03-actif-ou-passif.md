@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Tu es plutôt actif ou passif ?'
 category: 'vie-de-manager'
 tag: 'Vie de manager'
