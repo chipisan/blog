@@ -1,12 +1,10 @@
 ---
 layout: post
+title: 'Tu es plutôt actif ou passif ?'
 category: 'vie-de-manager'
 tag: 'Vie de manager'
 permalink: /vie-de-manager/actif-ou-passif
-title: 'Tu es plutôt actif ou passif ?'
-description: 'Je veux que les membres de mes équipes trouvent les réponses, pas qu'ils se contentent de poser des questions.'
 ---
-
 > 100% SFW
 
 ## Mon fonctionnement ... 
