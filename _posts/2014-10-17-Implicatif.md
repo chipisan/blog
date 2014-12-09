@@ -8,7 +8,7 @@ permalink: /pratiques-de-management/implicatif-participatif-depreciatif-limitati
 > Farandole d'adjectifs
 
 Mon approche du management c'est plutôt le mode participatif et implicatif. Quitte à m'y fatiguer ou désespérer parfois, j'explique le pourquoi et le comment, je sollicite avis et suggestions. Ça a toujours été mon approche naturelle. Et à force d'étonnements et d'incompréhension autour de moi j'ai fini par :   
-1. Désespérer de la façon de considérer leur job de certains managers   
+1. Désespérer de la façon dont certains managers considèrent leur job   
 2. Essayer de leur montrer qu'il y a d'autres façons de faire les choses   
 3. Et donc par objectiver et exprimer pourquoi je fonctionne comme ça et je suis convaincue par mon approche   
 
