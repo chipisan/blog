@@ -7,10 +7,10 @@ permalink: /organisations/question-de-confiance
 --- 
 > Le thème de ce début de semaine : contrôler les employés ou leur faire confiance ?
 
-Ce week-end j'ai eu une discussion intéressante sur l'inutilité des managers. La constatation de départ était l'hétérogénéité de la charge donnée et véritablement réalisée d'un collaborateur à l'autre. Les causes évoquées étaient multiples : mauvaise connaissance de la charge réelle des équipes, manque d'investissement du manager dans sa mission, manque ou absence de contrôle de la réalisation des tâches demandées, etc.  
-Et ce matin on m'a fait lire [Ne rien faire au travail, un passe-temps ordinaire](http://www.lexpress.fr/emploi/gestion-carriere/ne-rien-faire-au-travail-un-passe-temps-ordinaire_1627679.html). Ce que je retiens de cet article c'est que les employés bullent au boulot soit parce qu'ils sont en sous-charge, soit comme forme de rébellion contre la position de force des employeurs.  
-Et puis dans la foulée je suis tombée sur [cet article](http://www.cadreo.com/actualites/dt-le-management-chez-google-un-modele-a-decouvrir) et la vidéo [Google, beaucoup d'autonomie, peu de contrôle](http://vimeo.com/113493962) a particulièrement retenu mon attention.   
-Je m'étais également dit qu'un jour ce serait bien de parler de la confiance au travail. Et là clairement ça semble le jour pour.
+Ce week-end j'ai eu une discussion intéressante sur l'inutilité des managers. Tout est parti d'un constat : la charge de travail varie fortement d'une personne à l'autre en entreprise, tout comme le charge véritablement réalisée, alors que les managers sont supposés être là pour gérer ça. Les causes évoquées étaient multiples : mauvaise connaissance de la charge réelle des équipes, manque d'investissement du manager dans sa mission, manque ou absence de contrôle de la réalisation des tâches demandées, etc.  
+Et ce matin on m'a fait lire [Ne rien faire au travail, un passe-temps ordinaire](http://www.lexpress.fr/emploi/gestion-carriere/ne-rien-faire-au-travail-un-passe-temps-ordinaire_1627679.html). Article dont je retiens que les employés "bullent" au boulot soit parce qu'ils sont en sous-charge, soit comme forme de rébellion contre la position de force des employeurs.  
+Puis dans la foulée je suis tombée sur [cet article](http://www.cadreo.com/actualites/dt-le-management-chez-google-un-modele-a-decouvrir) et la vidéo [Google, beaucoup d'autonomie, peu de contrôle](http://vimeo.com/113493962) a particulièrement retenu mon attention.   
+Comme j'avais envie de parler de la confiance au travail, ça m'a semblé le jour pour. 
 
 ## Des chiffres et des interdictions
 Dans toutes les entreprises où je suis passée, et dans un certain nombre d'autres dont je connais le fonctionnement interne par des connaissances, la règle absolue c'est le contrôle et les règlements internes.   
@@ -39,6 +39,6 @@ Qu'une entreprise ait le projet de changer sa culture vers plus de confiance et 
 C'est un changement complet de paradigme, on n'est plus dans le "capital humain" du tout, le personnel de l'entreprise ne peut plus se compter comme simple moyen de production. Il s'agit de miser sur les employés, d'investir sur leur motivation, leur intégration et leur participation à la réussite de l'entreprise, concrètement. Et cela vaut tout autant pour ceux derrière leur bureau que ceux derrière leur ligne de production.   
 Les messages que l'on fait passer et leurs conséquences sont alors bien différents et bien plus intéressants :   
 * J'ai confiance en toi = Tu as le droit d'expérimenter et d'échouer, tu as le droit d'exprimer tes opinions.   
-* Tu es responsable = Tu ne seras pas infantiliser, tu pourras faire des choix, t'engager et avoir un réel impact sur les choses.   
+* Tu es responsable = Tu ne seras pas infantilisé, tu pourras faire des choix, t'engager et avoir un réel impact sur les choses.   
 * Tu bénéficies d'une grande liberté / marge de manoeuvre / autonomie = Personne mieux que toi ne connait ton poste avec ses contraintes et ses opportunités, tu peux influencer ton quotidien et être acteur des succès de l'entreprise
 
