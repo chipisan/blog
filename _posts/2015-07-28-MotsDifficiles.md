@@ -14,14 +14,11 @@ description: 'Comment aborder au mieux, ou au moins pire, des vérités difficil
 Il y avait une mission, avec des conditions de succès mesurables, des objectifs quantifiés (oui, ce sont des conditions préalables), et cette mission n'a pas été réussie.   
 Si ce n'est jamais agréable de faire le constat d'un échec, ni pour la personne qui était responsable de la mission échouée, ni pour nous manager (est-ce que j'aurais pu faire quelque chose pour éviter cette situation ?), ces vérités là sont relativement faciles à formuler et partager.    
 L'objectif n'est pas d'accuser ou de trouver un responsable à accuser pour cet échec mais bien de dresser un bilan constructif. Il faut alors : 
-
-* Partager le constat d'échec avec le porteur 
+- Partager le constat d'échec avec le porteur.   
 C'est-à-dire lister point par point les objectifs qui étaient attendus, et pourquoi il ne sont pas atteints. Là encore le pré-requis est d'avoir défini avant le début de la mission quels étaient les objectifs, et comment allait être mesurée l'atteinte de ces objectifs.
-
-* Faire un diagnostic des raisons de cet échec (humaines, liées à l'écosystème, organisationnelles, etc.)
-
-* Identifier les pistes d'amélioration pour ne pas reproduire l'échec
-A la fois pour le responsable de la mission s'il porte une part de responsabilité et pour la mission échouée pour ne pas perdre tout le bénéfice du travail engagé.
+- Faire un diagnostic des raisons de cet échec (humaines, liées à l'écosystème, organisationnelles, etc.).   
+- Identifier les pistes d'amélioration pour ne pas reproduire l'échec.    
+A la fois pour le responsable de la mission s'il porte une part de responsabilité et pour la mission échouée pour ne pas perdre tout le bénéfice du travail engagé.   
 Pour que l'exercice soit le plus efficace possible c'est le responsable de la mission qui doit être à l'origine de cette réflexion pour s'approprier plus facilement les pistes de progrès et reprendre confiance dans sa capacité de succès. 
 
 ### On ne trébuche jamais deux fois sur la même pierre (ou pas)
