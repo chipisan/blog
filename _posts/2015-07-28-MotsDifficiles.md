@@ -5,7 +5,6 @@ tag: 'Vie de manager'
 permalink: '/vie-de-manager/verites-qui-fachent-mots-difficiles-a-dire-objectives'
 title: 'Discuter des vérités qui fâchent : des mots difficiles à dire'
 description: 'Comment aborder au mieux, ou au moins pire, des vérités difficiles sur les réalisations et les méthodes de travail avec un membre de votre équipe'
-#published:false
 ---
 
 > De la difficile tâche de discuter des vérités qui fâchent quand on est un "manager au coeur tendre"
