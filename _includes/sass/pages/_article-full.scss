@@ -57,3 +57,8 @@ ul.posts span {
   font-size:14px;
 }
 
+// Listes à l'intérieur des articles
+#post ul {
+  list-style-type: disc;
+  text-align: left;
+}
