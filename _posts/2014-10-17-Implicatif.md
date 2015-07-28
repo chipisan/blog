@@ -27,6 +27,7 @@ Donc de la même façon que je donne des éléments de contexte je donne des ori
 Je considère que j'ai mieux à faire que d'admirer l'in.capacité de mes équipes à la pratique divinatoire. Je ne prends aucun plaisir à les mettre en difficulté, et je n'y vois aucun intérêt pédagogique non plus.
 
 L'idée, pour moi en tant que manager, est d'accompagner sans se substituer pour atteindre plusieurs objectifs :   
+
 * Rassurer et donc lever de multiples freins potentiels   
 
 * Valoriser et donc inciter à donner le meilleur de soi-même   
